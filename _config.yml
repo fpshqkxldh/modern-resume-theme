@@ -12,8 +12,8 @@ email: academy@academy.ac.kr
 # email_title: Email (Email title override)
 phone: 010-****-****
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: https://fpshqkxldh.github.io
+website: https://fpshqkxldh.github.io
+# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
